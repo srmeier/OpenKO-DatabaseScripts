@@ -14,4 +14,4 @@
       - Script DROP and CREATE <-> Script DROP and CREATE
       - Types of data to script <-> Schema and data
 
--After completing all these steps, set the directory name as the path of the repository in your local machine and continue
+- After completing all these steps, set the directory name as the path of the repository in your local machine and continue
