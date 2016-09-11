@@ -4,7 +4,7 @@
 
 # How to create the scripts
 
-- Right-click to the database whose scripts are generated
+- Right-click to the database whose scripts are to be generated
 - Tasks -> Generate Scripts
 - In Choose Objects page, choose the objects that you want to create its' scripts.Note that, never check the option "Script entire database and all the database objects" and continue!
 - In Set Scripting Options, choose this options;	
