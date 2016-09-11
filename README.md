@@ -1,4 +1,5 @@
 # [OpenKO](https://github.com/srmeier/KnightOnline) - Database Scripts
+# [OpenKO - Setup](http://codingbackwards.in/index.php?forums/general.19/)
 
 
 # How to create the scripts
