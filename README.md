@@ -1,6 +1,6 @@
 # [OpenKO](https://github.com/srmeier/KnightOnline) - Database Scripts
 # [OpenKO - Setup](http://codingbackwards.in/index.php?forums/general.19/)
-**Note that, as you may notice, the ITEM table is in the git-lfs; therefore, in order to push chances to that table, you have to have been added to this repo as a collaborator**
+**Note that, as you may notice, the ITEM table is stored in git-lfs; therefore, in order to push chances to that table, you have to have been added to this repo as a collaborator**
 
 
 # How to create the scripts
